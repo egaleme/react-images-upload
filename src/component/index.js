@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './index.css';
 import FlipMove from 'react-flip-move';
-import UploadIcon from './UploadIcon.svg';
+import UploadIcon from './upload-image-icon.png';
 
 const styles = {
   display: "flex",
