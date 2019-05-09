@@ -20,7 +20,7 @@ var _reactFlipMove = require('react-flip-move');
 
 var _reactFlipMove2 = _interopRequireDefault(_reactFlipMove);
 
-var _UploadIcon = require('./UploadIcon.svg');
+var _UploadIcon = require('./upload-image-icon.png');
 
 var _UploadIcon2 = _interopRequireDefault(_UploadIcon);
 
